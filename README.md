@@ -18,7 +18,7 @@ cp .env.example .env
 
 Atualize essas variáveis de ambiente no arquivo .env
 ```dosini
-APP_NAME="Especializa Ti"
+APP_NAME="Nome do Projeto"
 APP_URL=http://localhost:8989
 
 DB_CONNECTION=mysql
